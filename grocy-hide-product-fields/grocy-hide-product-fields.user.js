@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         Grocy Hide Product Fields
 // @namespace    https://github.com/cmartin616
-// @version      1.0.0
+// @version      1.0.1
 // @updateURL    https://raw.githubusercontent.com/cmartin616/tampermonkey-scripts/main/grocy-hide-product-fields/grocy-hide-product-fields.user.js
 // @downloadURL  https://raw.githubusercontent.com/cmartin616/tampermonkey-scripts/main/grocy-hide-product-fields/grocy-hide-product-fields.user.js
-// @match        https://grocy.elmstservices.com/*
+// @match        https://inventory.elmstservices.com/*
 // @grant        none
 // ==/UserScript==
 
